@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Gum care">
+<rect width="100" height="100" rx="24" fill="#e5f8ef"/>
+<circle cx="77" cy="22" r="12" fill="#fff" opacity=".7"/>
+<path d="M50 15c-13-9-29-2-29 15 0 11 8 23 11 36 2 8 7 8 10 1l8-18 8 18c3 7 8 7 10-1 3-13 11-25 11-36 0-17-16-24-29-15z" fill="#fff" stroke="#239b76" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M33 39q17 14 34 0m-27 12q10 8 20 0" fill="none" stroke="#239b76" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
